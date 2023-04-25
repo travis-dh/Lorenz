@@ -1,0 +1,30 @@
+# Compiled python files
+*.pyc
+__pycache__/
+
+# Logs
+*.log
+logs/
+
+# Virtual environment
+venv/
+env/
+ENV/
+
+# IDE files
+.idea/
+.vscode/
+*.sublime-workspace
+*.sublime-project
+
+# Jupyter Notebook files
+.ipynb_checkpoints/
+*.ipynb
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+*.egg
+*.tar.gz
+*.whl
